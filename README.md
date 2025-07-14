@@ -16,7 +16,7 @@ The dataset includes:
 - Purchase history
 - Responses to past marketing campaigns
 
-🔗 [Dataset Link](#) <!-- Replace with actual link -->
+🔗 [Dataset Link](https://github.com/Future1625/Marketing-Campaign-Performance-Dashboard/blob/main/superstore_data.csv)
 
 ---
 
@@ -59,10 +59,10 @@ The analysis shows:
 
 ## 📈 Dashboard
 
-> 📥 [Download Power BI Report](#) <!-- Replace with actual link -->
+> 📥 [Download Power BI Report](#)
 
 🖼️ _Dashboard Preview:_  
-![Dashboard Preview](path-to-image.png) <!-- Replace with image file name if uploaded -->
+![Dashboard Preview]("C:\Users\vishw\Downloads\Marketing campaign.png")
 
 ---
 
