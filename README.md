@@ -59,10 +59,10 @@ The analysis shows:
 
 ## 📈 Dashboard
 
-> 📥 [Download Power BI Report](#)
+> 📥 [Download Power BI Report](https://github.com/Future1625/Marketing-Campaign-Performance-Dashboard/blob/main/Superstore%20Marketing%20Campaign.pbix)
 
 🖼️ _Dashboard Preview:_  
-![Dashboard Preview]("C:\Users\vishw\Downloads\Marketing campaign.png")
+![Dashboard Preview](https://github.com/Future1625/Marketing-Campaign-Performance-Dashboard/blob/main/Marketing%20campaign.png)
 
 ---
 
@@ -137,7 +137,7 @@ Implementing these strategies enables the superstore to:
 
 ## 👤 Author
 
-**[Your Name](https://github.com/Future1625)**  
+**[Vishwa](https://github.com/Future1625)**  
 _Data Analyst | Dashboard Developer_
 
 ---
